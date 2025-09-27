@@ -1,0 +1,5 @@
+{
+  repo: nubrew/module-root-example
+  package-name: mysample
+  module-root: /
+}
